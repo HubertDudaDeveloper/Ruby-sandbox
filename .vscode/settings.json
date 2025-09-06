@@ -1,0 +1,5 @@
+{
+  "rubyLsp.rubyExecutablePath": "C:\\Ruby34-x64\\bin\\ruby.exe",
+  "rubyLsp.useBundler": true,
+  "rubyLsp.bundleGemfile": "c:\\Users\\HubertDudaDeveloper\\Documents\\GitHub\\Ruby-sandbox\\Gemfile"
+}
